@@ -1,0 +1,17 @@
+<mjml>
+    <mj-body background-color="#E4E6EB" font-size="16px">
+        <mj-section background-color="#FFFFFF" vertical-align="top" padding-bottom="0px" padding-top="0px" border-bottom="1px dashed #eee">
+            <mj-column vertical-align="top" width="100%">
+
+                <mj-image src="images/logo@2x.png" alt="" align="center" border="none" width="180px" padding-left="0px" padding-right="0px" padding-bottom="25px" padding-top="30px"  />
+
+            </mj-column>
+
+
+
+
+        </mj-section>
+
+
+    </mj-body>
+</mjml>
