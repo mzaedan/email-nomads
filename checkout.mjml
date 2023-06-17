@@ -65,7 +65,40 @@
                 <mj-button align="center" font-size="18px" font-weight="bold" background-color="#FF9E53" border-radius="10px" color="#FFF" font-family="Assistant, Helvetica, Arial, sans-serif">
                     Check Detail
                 </mj-button>
+            </mj-column>
+        </mj-section>
 
+        <mj-section background-color="#FFFFFF" padding-bottom="0px" padding-top="0px">
+            <mj-column vertical-align="middle" width="100%">
+                <mj-text align="left" color="#071C4D" font-size="18px" line-height="20px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+                    Butuh Bantuan?
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFFFFF" padding-bottom="20px" padding-top="0px">
+            <mj-column>
+                <mj-table>
+                   <tr>
+                        <td style="width: 50px">
+                            <img src="images/ic_support@2x.png" width="50px">
+                        </td>
+                        <td style="font-size:18px padding-left: 10px; color: #071C4D; font-family: Assistant, Helvetica, Arial, sans-serif">
+                            Support@nomads.id
+                            <br>
+                            021-2019-2022
+                        </td>
+                        
+                    <tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="30px" padding-top="3px">
+            <mj-column>
+                <mj-text align="center" color="#888B93" font-size="18px" font-family="Assistant, Helvetica, Arial, sans-serif"padding-left="25px" padding-right="25px" padding-bottom="0px" padding-left="30px">
+                    2023 Nomads Copyright All Rights Reserved
+                </mj-text>
             </mj-column>
         </mj-section>
 
